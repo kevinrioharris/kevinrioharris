@@ -27,13 +27,13 @@ I'm an Kevin Rio Harristyando, Engineering Physics Graduate.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img href= "https://www.python.org/" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
-  <img href= "https://www.tensorflow.org/" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img href= "https://www.mysql.com/" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img href= "https://www.postgresql.org/" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img href= "https://pandas.pydata.org/" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
-  <img href= "https://www.tableau.com/" src ="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="65" height="25"/>&nbsp
-  <img href= "https://git-scm.com/" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <a href= "https://www.python.org/"><img  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+  <a href= "https://www.tensorflow.org/"><img  src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
+  <a href=  "https://www.mysql.com/"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <a href= "https://www.postgresql.org/"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <a href= "https://pandas.pydata.org/"> <img  src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
+  <a href= "https://www.tableau.com/"> <img  src ="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" width="65" height="25"/>&nbsp
+  <a href= "https://git-scm.com/"> <img  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 
