@@ -10,6 +10,8 @@
     </a>
     <a href=https://www.instagram.com/kevinriohar/>
       <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt="Instagram Badge"/>
+    <a href=https://public.tableau.com/app/profile/kevin.rio.harristyando>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
   </div>
   <img src="https://komarev.com/ghpvc/?username=kevinrioharris&style=flat-square&color=blue" alt=""/>
 
