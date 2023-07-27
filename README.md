@@ -20,7 +20,7 @@
 ---
 
 ### :man_technologist: About Me :
-I'm an Kevin Rio Harristyando, Engineering Physics Graduate.
+I'm Kevin Rio Harristyando, Engineering Physics Graduate.
 - 💻 Actively pursuing opportunities in the field of Data Scientist and AI/ML Engineer.
 - 🌱 Exploring Data Storytelling, Data Visualization, Machine Learning, Deep Learning, Cloud Computing.
 - ⏰ During my free time, I enjoy hitting the gym, reading about the latest technology trends, and taking online courses.
